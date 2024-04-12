@@ -7,7 +7,7 @@ body{
     font-family: "Poppins", sans-serif;
     margin: 0 auto;
     max-width: 1120px;
-    background: linear-gradient(150deg, #000, #9e00ff);
+    background: linear-gradient(150deg, #17161C, #0d976d);
 }
 
 .cabecalho{
@@ -30,20 +30,20 @@ body{
 }
 
 .cabecalho a:hover .logo{
-    color: #9443d8;
-    border: 2px solid #9443d8;
+    color: #0d976d;
+    border: 2px solid #0d976d;
 }
 
 .cabecalho .menu li a{
     font-size: 20px;
     text-transform: capitalize;
     padding: 10px 20px;
-    transition: 0.2s;
+    transition: 0.3s;
 }
 
 .cabecalho .menu li a:hover{
-    background-color: #9443d8;
-    color: #fff;
+    color: #0d976d;
+    border: 2px solid #0d976d;
     border-radius: 50px;
 }
 
@@ -93,8 +93,8 @@ body{
 }
 
 .home .redes-sociais a i:hover{
-    color: #9443d8;
-    border: 1px solid #9443d8;
+    color: #0d976d;
+    border: 1px solid #0d976d;
     transform: scale(1.1);
 }
 
@@ -191,7 +191,8 @@ body{
 }
 
 .projetos .btn-mostrar-projetos:hover{
-    background-color: #9443d8;
+    color: #17161C;
+    border: 2px solid #17161C;
     transition: 0.2s;
 }
 
