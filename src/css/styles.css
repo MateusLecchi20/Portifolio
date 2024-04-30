@@ -7,7 +7,7 @@ body{
     font-family: "Poppins", sans-serif;
     margin: 0 auto;
     max-width: 1120px;
-    background: linear-gradient(150deg, #17161C, #0d976d);
+    background: linear-gradient(150deg, #292929, #000);
 }
 
 .cabecalho{
@@ -66,6 +66,7 @@ body{
 
 .home .informacoes h1{
     font-family: "Raleway", sans-serif;
+    color: #0d976d;
     font-size: 45px;
     margin-bottom: 20px;
 }
@@ -115,6 +116,7 @@ body{
 } */
 
 .projetos{
+    color: #0d976d;
     padding: 70px 0 70px; 
 }
 
@@ -191,8 +193,8 @@ body{
 }
 
 .projetos .btn-mostrar-projetos:hover{
-    color: #17161C;
-    border: 2px solid #17161C;
+    color: #0d976d;
+    border: 2px solid #0d976d;
     transition: 0.2s;
 }
 
